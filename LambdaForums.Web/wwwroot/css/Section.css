@@ -1,0 +1,25 @@
+﻿/*Section*/
+
+.sectionHeader {
+    background-color: rgba(0,0,0,0.9);
+    padding: 24px;
+    display: block;
+}
+
+.sectionInfo {
+    height: 400px;
+    background-color: white;
+}
+
+.sectionDescription {
+    color: #EEE;
+}
+
+.sectionHeading {
+    color: white;
+    font-size: 1.3em;
+    font-family: 'Roboto';
+    padding: 16px 0 16px 0;
+    border-bottom: 1px solid #335;
+    margin-bottom: 12px;
+}

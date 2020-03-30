@@ -1,0 +1,24 @@
+﻿/*Create Post*/
+ 
+.createPostSection {
+    background-color: #FFF;
+    padding: 24px;
+    width: 100%;
+}
+
+.authorBlock {
+    padding: 18px;
+    border: 1px dashed #00AFCF;
+    margin-bottom: 8px;
+}
+
+.noBorder {
+    border: none;
+}
+
+#Content.form-control {
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: auto;
+    height: 400px;
+}

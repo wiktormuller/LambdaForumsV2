@@ -1,0 +1,23 @@
+﻿/*Home Search*/
+
+.homeSearch {
+    width: 100%;
+    margin-top: 8px;
+    background: rgba(0,0,0,0.1);
+    padding: 8px;
+    border: 0px;
+    height: 2em;
+    font-size: 2.1em;
+    font-family: 'Roboto Mono';
+    font-weight: bold;
+    transition: ease-in 0.2s;
+}
+
+    .homeSearch:focus {
+        border: none !important;
+        outline: none !important;
+        transition: ease-in 0.2s;
+        color: #03A9F4;
+        background-color: rgba(0,0,0,0.7);
+        box-shadow: 0 5px 4px -6px #000;
+    }

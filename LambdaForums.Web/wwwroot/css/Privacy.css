@@ -1,0 +1,12 @@
+﻿/*Privacy Policy*/
+
+.privacyPolicyContent {
+    padding: 20px;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
+}
+
+.privacyPolicyLink {
+    color: black;
+    text-decoration: underline;
+}

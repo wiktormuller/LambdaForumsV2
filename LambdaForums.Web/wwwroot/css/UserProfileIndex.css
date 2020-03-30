@@ -1,0 +1,12 @@
+﻿/*User Profile Index*/
+
+.userProfilePic {
+    height: 100px;
+    width: 100px;
+    background-size: 100%;
+    background-color: aqua;
+}
+
+td.userRowCell {
+    vertical-align: middle;
+}

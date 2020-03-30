@@ -1,0 +1,86 @@
+﻿/*Custom Buttons*/
+
+.btn-back {
+    background-color: #555;
+    color: #fff !important;
+    transition: ease-in 0.1s;
+    border-radius: 0px !important;
+}
+
+    .btn-back:hover {
+        transition: ease-in 0.1s;
+        background-color: #1E88E5 !important;
+    }
+
+.btn-newReply {
+    background-color: #5C6BC0 !important;
+    color: #FFF !important;
+    transition: ease-in 0.1s;
+    border-radius: 0px !important;
+}
+
+.btn-newReply {
+    background-color: #9FA8DA !important;
+    transition: ease-in 0.1s;
+}
+
+.btn-file {
+    color: white;
+    width: 100%;
+    background-color: #4FC3F7;
+    transition: ease 0.3s;
+}
+
+    .btn-file:hover {
+        background-color: #039BE5;
+        transition: ease 0.3s;
+    }
+
+.btn-newPost {
+    background-color: #c62828 !important;
+    color: #FFF !important;
+    transition: ease-in 0.1s;
+    border-radius: 0px !important;
+}
+
+    .btn-newPost:hover {
+        transition: ease-in 0.1s;
+        background-color: #e53935;
+        color: #FFF !important;
+    }
+
+.btn-submitPost {
+    background-color: #00695C !important;
+    color: #FFF !important;
+    transition: ease-in 0.1s;
+    border-radius: 0px !important;
+}
+
+    .btn-submitPost:hover {
+        transition: ease-in 0.1s;
+        background-color: #00897B !important;
+        color: #FFF !important;
+    }
+
+.btn-forumSearch {
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+}
+
+.button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.btn-logout {
+    font-weight: bold;
+    color: #007bff;
+    border: none;
+    background-color: transparent;
+}
+
+.btn-logout:focus {
+    outline: 0;
+}

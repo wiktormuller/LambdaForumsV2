@@ -1,0 +1,12 @@
+﻿/*Custom Buttons*/
+
+.loginLabel {
+    font-weight: bold;
+}
+
+.loginSection {
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    width: 310px;
+}

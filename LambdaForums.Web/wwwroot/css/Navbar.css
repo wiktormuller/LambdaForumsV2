@@ -1,0 +1,63 @@
+﻿/*Navbar*/
+
+nav {
+    box-shadow: 0 0 1px 0 #b9c5d3;
+    background-color: white;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.nav-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url("/images/app-logo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+a.nav-logo-link {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    margin: 5px;
+}
+
+.nav-item {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+    .nav-item:hover {
+        background-color: #e5e5e5;
+    }
+
+.nav-link {
+    display: block;
+    text-decoration: none;
+    width: 100%;
+    height: 100%;
+}
+
+    .nav-link:hover {
+        display: block;
+        color: #007bff;
+    }
+
+.dropdown-link:hover {
+    background-color: #E5E5E5;
+}
